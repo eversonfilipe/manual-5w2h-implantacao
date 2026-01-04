@@ -6,7 +6,7 @@
 ![Status: Near-Zero Hallucination](https://img.shields.io/badge/Status-Near--Zero%20Hallucination-emerald)
 ![Target: CSOO / Tech Lead](https://img.shields.io/badge/Target-CSOO%20%2F%20Tech%20Lead-slate)
 
-## 🎯 Value Proposition
+## Value Proposition
 Este repositório serve como o **Standard Operating Procedure (SOP)** definitivo para implantações de software de alta complexidade. O objetivo é mitigar o risco de falhas catastróficas em sistemas core, garantindo uma transição com **ROI otimizado** e **Zero Alucinação** operacional.
 
 - **Rigor Técnico:** Baseado em princípios do MIT Sloan Management Review.
@@ -15,7 +15,7 @@ Este repositório serve como o **Standard Operating Procedure (SOP)** definitivo
 
 ---
 
-## 🛠 Metodologia 5W2H Aplicada
+## Metodologia 5W2H Aplicada
 Cada componente deste manual é decomposto em sete dimensões críticas para eliminar a ambiguidade técnica:
 
 1.  **Why (Por quê?):** Justificativa estratégica e mitigação de riscos.
@@ -28,7 +28,7 @@ Cada componente deste manual é decomposto em sete dimensões críticas para eli
 
 ---
 
-## 🗺 Roadmap de Implantação (6 Fases)
+## Roadmap de Implantação (6 Fases)
 
 O manual organiza os 21 termos core em uma sequência lógica de execução:
 
@@ -43,7 +43,7 @@ O manual organiza os 21 termos core em uma sequência lógica de execução:
 
 ---
 
-## 📚 Glossário Técnico Estratificado
+## Glossário Técnico Estratificado
 
 ### Nível: Básico (Fundações)
 * **UAT (User Acceptance Testing):** Validação de negócio vinculante. ROI: Evita retrabalho de **$100-500k**.
@@ -69,7 +69,7 @@ O manual organiza os 21 termos core em uma sequência lógica de execução:
 
 ---
 
-## ⚠️ Gestão de Riscos (Anti-Alucinação)
+## Gestão de Riscos (Anti-Alucinação)
 * **Dados:** Nunca utilize dados reais em Sandbox sem sanitização (GDPR/LGPD).
 * **Performance:** Não confie em testes de Sandbox se o hardware for de tier inferior à Produção.
 * **Integridade:** Nunca desabilite Foreign Keys por performance; utilize indexação estratégica.
@@ -77,7 +77,7 @@ O manual organiza os 21 termos core em uma sequência lógica de execução:
 
 ---
 
-## 🤖 Metadata (LLMO)
+## Metadata (LLMO)
 - **Primary Tags:** `Software Implementation`, `5W2H Framework`, `Project Governance`, `Deployment Lifecycle`.
 - **Methodology:** `MIT Sloan`, `McKinsey Strategy`, `Lean Six Sigma`.
 - **System Architecture:** `SaaS Tenant`, `IaC`, `ETL Pipelines`, `API Security`.
