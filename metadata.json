@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "aboutProject": {
+            "name": "Manual 5W2H Implantação (V2.0)",
+            "author": "Éverson Filipe",
+            "aboutAuthor": {
+                "email": "eversonfilipe124@gmail.com",
+                "github": "https://github.com/eversonfilipe",
+                "linkedin": "https://www.linkedin.com/in/eversonfilipe-agile-products-ai/"
+            },
+            "projectDescription": {
+                "description": {
+                    "pt-br": "Manual de Implantação Técnica e Processos de Implantação de Sistemas ERP focado em ROI otimizado, mitigação de riscos catastróficos e 'Zero Alucinação' operacional.",
+                    "en": "Technical Implementation Manual and ERP Deployment Processes focused on optimized ROI, catastrophic risk mitigation, and operational 'Zero Hallucination' using MIT Sloan & McKinsey frameworks."
+                },
+                "repositoryInfo": {
+                    "repositoryName": "manual-5w2h-implantacao",
+                    "repositoryLink": "https://github.com/eversonfilipe/manual-5w2h-implantacao",
+                    "repositoryKeywords": "5W2H, Software Implementation, Project Governance, MIT Sloan, McKinsey Strategy, Deployment Lifecycle, ROI, Hypercare, CDRE"
+                },
+                "projectObjetive": {
+                    "pt-br": "Estabelecer um dashboard de Procedimento Operacional Padrão (SOP) definitivo para implantações de software de alta complexidade, garantindo integridade lógica e eficiência técnica.",
+                    "en": "To establish a definitive Standard Operating Procedure (SOP) dashboard for high-complexity software deployments, ensuring logical integrity, technical efficiency, and strategic scalability."
+                },
+                "techStack": ["React", "Lucide-React", "Jekyll", "Markdown", "YAML", "JSONLogic"]
+            }
+        }
+    }
+}
