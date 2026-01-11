@@ -1,0 +1,32 @@
+title: "Manual 5W2H Implantação (V2.0)"
+author: "Éverson Filipe"
+description: >-
+  Manual de Implantação Técnica e Processos de Implantação de Sistemas ERP fruto dos estudos de Éverson Filipe, durante seu percurso na Kartado.
+  Estratégia focada em ROI otimizado, mitigação de riscos catastróficos e Zero Alucinação operacional via Framework MIT Sloan & McKinsey. Além disso,
+  permite visualização integrada das demais fases e termos técnicos de uma implantação bem sucedida, guiando estudos, etc.
+lang: pt-BR
+timezone: America/Sao_Paulo
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+keywords: "5W2H, Software Implementation, Project Governance, MIT Sloan, McKinsey Strategy, Deployment Lifecycle, ROI, Hypercare, Everson Filipe, Éverson Filipe, Implantação Técnica"
+
+repository: eversonfilipe/manual-5w2h-implantacao
+
+twitter:
+  card: summary_large_image
+  site: eversonfilipe
+
+social:
+  name: Éverson Filipe
+  links:
+    - https://www.linkedin.com/in/eversonfilipe-agile-products-ai/
+  
+url: "https://eversonfilipe.github.io" 
+baseurl: "/manual-5w2h-implantacao" # Caminho relativo do repositório
+permalink: /:title/
+
+markdown: kramdown
+highlighter: rouge
